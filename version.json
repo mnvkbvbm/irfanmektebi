@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.0.4",
+  "latestVersion": "1.1.1",
   "minSupportedVersion": "1.0.0",
   "updateUrl": "https://raw.githubusercontent.com/mnvkbvbm/irfanmektebi/main/app-release.apk",
-  "changeLog": "• Ödevlere fotoğraflı soru ekleme ve büyütme desteği eklendi.\n• Talebeler için ödev cevaplama ekranı güncellendi.\n• Performans iyileştirmeleri ve hata düzeltmeleri yapıldı.",
+  "changeLog": "• Kapalı uygulamada ve bekleme modunda ödev bildirimi alma (FCM) desteği eklendi.\n• Performans iyileştirmeleri ve hata düzeltmeleri yapıldı.",
   "isForceUpdate": false
 }
