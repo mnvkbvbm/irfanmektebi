@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.1.1",
+  "latestVersion": "1.1.2",
   "minSupportedVersion": "1.0.0",
   "updateUrl": "https://raw.githubusercontent.com/mnvkbvbm/irfanmektebi/main/app-release.apk",
   "changeLog": "• Kapalı uygulamada ve bekleme modunda ödev bildirimi alma (FCM) desteği eklendi.\n• Performans iyileştirmeleri ve hata düzeltmeleri yapıldı.",
